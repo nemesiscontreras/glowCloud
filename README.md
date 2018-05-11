@@ -6,4 +6,4 @@ Arduino Code to the Glow Cloud instructable
 https://learn.adafruit.com/adafruit-neopixel-uberguide/arduino-library-installation
 
 
-![demo](./demo.PNG)
+![demo](./demo.png)
